@@ -1,0 +1,45 @@
+ body{
+    border: 3px solid rgb(16, 184, 172);
+    margin: 0;
+    padding: 0;
+} 
+.bike{
+     background: url(photos/RE4.jpg) center/cover;   
+    background-color: goldenrod;
+}
+.royal{
+    padding-bottom: 250px;
+}
+.heading{
+    background-color: rgba(0, 0, 0, 0.318);
+    font-size:xx-large;
+    font-weight: bolder;
+    text-shadow: 4px 4px 10px red;
+}
+.tag{
+    text-shadow: 2px 2px 2px rgb(255, 255, 255);
+
+}
+.img{
+    border: 2px solid rgb(0, 0, 0);
+}
+.ab{
+    background: url(photos/bgplane.jpg) center/cover fixed;
+}
+.quote,.quote1{
+    text-align: justify;
+    word-spacing: 10px;
+    font-weight: bold;
+    font-family: cursive;
+}
+.foot{
+    background-color: burlywood;
+}
+li>a:hover{
+    background-color: rgb(235, 81, 81);
+    color: rgb(0, 255, 242);
+}
+.navbar{
+    background-color: rgba(49, 94, 94, 0.435);
+    color: red;
+}
